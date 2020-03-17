@@ -19,4 +19,6 @@ php commands/fill.php (équivalent de fixtures)
 7) se rendre sur http://localhost:8000/login (identifiants admin et admin)
 8) manipuler le CRUD des articles et des catégories
 
+![image](https://raw.githubusercontent.com/sergisergio/PHP_Grafikart-TP2/master/grafikart.png)
+
 
