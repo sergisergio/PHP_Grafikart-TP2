@@ -9,7 +9,7 @@
 3) installer les dépendances
 4) lancer le serveur
 ```
-php -S localhost -t public
+php -S localhost:8000 -t public
 ```
 5) lancer la commande
 ```
